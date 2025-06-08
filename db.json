@@ -102,10 +102,11 @@
   {
     "_id": "6aaae078-3a99-4216-80a0-6ea79443d65e",
     "age": 23,
-    "name": "sarthak",
+    "name": "krushna",
     "gender": "mail",
     "email": "sarthaknavale40@gmail.com",
     "phone": "+91 8459360294",
-    "about": "i love code the websit   e"
+    "about": "i love code the websit   e",
+    "address": "at post morve"
   }
 ]
