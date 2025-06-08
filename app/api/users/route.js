@@ -30,3 +30,12 @@ export const POST = async (request) => {
         return Response.json({ error: error.message }, { status: 500 })
     }
 }
+
+
+export const DELETE = async (request,{params})=>{
+      try{
+
+      }catch(error){
+
+      }
+}

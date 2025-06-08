@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const page = () => {
+const Home = () => {
 
    const [origin,setOrigin] = useState("")
 
@@ -21,4 +21,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Home
